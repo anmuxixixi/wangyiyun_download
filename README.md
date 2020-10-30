@@ -18,7 +18,7 @@
 
 ## 文件说明
 * branch中利用爬虫下载网易云音乐VIP歌曲markdown文件主要 介绍项目实现的具体步骤和思路
-* cloudmusic.py   主要对cloudmusic库作简要的代码示例
+* cloudmusic库.py   主要对cloudmusic库作简要的代码示例
 * 网易云1.2.py     实现歌曲的批量下载（包括VIP歌曲）
 
 **本项目会不断更新，目前作者正在开发可视化界面，但是网易云音乐爬取已经实现~**
